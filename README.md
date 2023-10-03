@@ -16,7 +16,7 @@
 
 The Experiment panel:
 
-![Experiment panel](Fig_GUI1b.PNG)
+![Main Figure](Fig_GUI1b.PNG)
 
 ## Contact
 
