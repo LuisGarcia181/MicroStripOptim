@@ -16,7 +16,7 @@
 
 The Experiment panel:
 
-![Experiment panel](screenshots/fsstudio1v11.png)
+![Experiment panel](Fig_GUI1b.PNG)
 
 ## Contact
 
